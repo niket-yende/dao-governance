@@ -1,0 +1,24 @@
+{
+  "name": "dao-governance",
+  "version": "1.0.0",
+  "description": "dao governance sample app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niket-yende/dao-governance.git"
+  },
+  "keywords": [
+    "dao",
+    "solidity",
+    "hardhat"
+  ],
+  "author": "Niket Yende (niket6@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niket-yende/dao-governance/issues"
+  },
+  "homepage": "https://github.com/niket-yende/dao-governance#readme",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.9.3",
+    "hardhat": "^2.17.2"
+  }
+}
