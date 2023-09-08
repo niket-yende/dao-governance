@@ -7,7 +7,7 @@ contract TimeLock is TimelockController {
   // minDelay is how long you have to wait before executing
   // proposers is the list of addresses that can propose
   // executors is the list of addresses that can execute
-  //`admin`: optional account to be granted admin role; disable with zero address  /**
+   //`admin`: optional account to be granted admin role; disable with zero address  /**
   /**
    * IMPORTANT: The optional admin can aid with initial configuration of roles after deployment
    * without being subject to delay, but this role should be subsequently renounced in favor of
