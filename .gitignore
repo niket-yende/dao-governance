@@ -12,3 +12,5 @@ proposals.json
 typechain-types
 gas-report.txt
 deployments
+
+.vscode
